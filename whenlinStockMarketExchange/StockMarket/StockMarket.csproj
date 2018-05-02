@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F18C8618-0F77-4FF9-8891-E2267EF12B48}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StockExchangeMarket</RootNamespace>
+    <AssemblyName>StockMarket</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net35\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model-BuyOrder.cs" />
+    <Compile Include="StartInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartInfo.Designer.cs">
+      <DependentUpon>StartInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View-Client-StockSecuritiesExchange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View-Client-StockSecuritiesExchange.Designer.cs">
+      <DependentUpon>View-Client-StockSecuritiesExchange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model-Company.cs" />
+    <Compile Include="Model-Order.cs" />
+    <Compile Include="View-PlaceSellOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View-PlaceSellOrder.Designer.cs">
+      <DependentUpon>View-PlaceSellOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View-PlaceBidOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View-PlaceBidOrder.Designer.cs">
+      <DependentUpon>View-PlaceBidOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model-SellOrder.cs" />
+    <Compile Include="View-MarketByPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View-MarketByPrice.Designer.cs">
+      <DependentUpon>View-MarketByPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model-RealTimedata.cs" />
+    <Compile Include="Model-StockMarket.cs" />
+    <Compile Include="View-MarketByOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View-MarketByOrder.Designer.cs">
+      <DependentUpon>View-MarketByOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View-StockStateSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View-StockStateSummary.Designer.cs">
+      <DependentUpon>View-StockStateSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View-StockMarketDisplay.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="StartInfo.resx">
+      <DependentUpon>StartInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View-Client-StockSecuritiesExchange.resx">
+      <DependentUpon>View-Client-StockSecuritiesExchange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View-PlaceSellOrder.resx">
+      <DependentUpon>View-PlaceSellOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View-PlaceBidOrder.resx">
+      <DependentUpon>View-PlaceBidOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View-MarketByOrder.resx">
+      <DependentUpon>View-MarketByOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View-MarketByPrice.resx">
+      <DependentUpon>View-MarketByPrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View-StockStateSummary.resx">
+      <DependentUpon>View-StockStateSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\down.bmp" />
+    <Content Include="Resources\Eng.ico" />
+    <Content Include="Resources\noChange.bmp" />
+    <Content Include="Resources\up.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

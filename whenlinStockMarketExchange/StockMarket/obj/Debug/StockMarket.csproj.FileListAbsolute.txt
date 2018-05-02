@@ -1,0 +1,79 @@
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution1\StockMarket\obj\Debug\StockMarket.exe
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution1\StockMarket\obj\Debug\StockMarket.pdb
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockMarket.exe
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockMarket.pdb
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockExchangeMarket.StockSecuritiesExchange.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockExchangeMarket.PlaceSellOrder.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockExchangeMarket.PlaceBidOrder.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockExchangeMarket.Properties.Resources.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockExchangeMarket.MarketByOrder.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockExchangeMarket.MarketByPrice.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockExchangeMarket.StockStateSummary.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.Cache
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\bin\Debug\StockMarket.exe
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\bin\Debug\StockMarket.pdb
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\bin\Debug\StockMarket.exe.config
+E:\ECEUWO\Teaching\Fall2014\SE3352a\labs\5\Solution2\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\solution\Solution2\StockMarket\bin\Debug\StockMarket.exe.config
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\solution\Solution2\StockMarket\obj\Debug\StockMarket.exe
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\solution\Solution2\StockMarket\obj\Debug\StockMarket.pdb
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\bin\Debug\StockMarket.exe.config
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockMarket.exe
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockMarket.pdb
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\bin\Debug\StockMarket.exe
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\bin\Debug\StockMarket.pdb
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.StockSecuritiesExchange.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.PlaceSellOrder.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.PlaceBidOrder.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.Properties.Resources.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.MarketByOrder.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.MarketByPrice.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.StockStateSummary.resources
+E:\ECEUWO\Teaching\Fall2014\SE3352a\Assignments\2\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.Cache
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\bin\Debug\StockMarket.exe.config
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockMarket.exe
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockMarket.pdb
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\bin\Debug\StockMarket.exe
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\bin\Debug\StockMarket.pdb
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.StockSecuritiesExchange.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.PlaceSellOrder.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.PlaceBidOrder.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.Properties.Resources.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.MarketByOrder.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.MarketByPrice.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockExchangeMarket.StockStateSummary.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment2 solution\Solution2\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.Cache
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\bin\Debug\StockMarket.exe.config
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockMarket.exe
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockMarket.pdb
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\bin\Debug\StockMarket.exe
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\bin\Debug\StockMarket.pdb
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockExchangeMarket.StockSecuritiesExchange.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockExchangeMarket.PlaceSellOrder.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockExchangeMarket.PlaceBidOrder.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockExchangeMarket.Properties.Resources.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockExchangeMarket.MarketByOrder.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockExchangeMarket.MarketByPrice.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockExchangeMarket.StockStateSummary.resources
+E:\ECEUWO\Teaching\Winter2018\SE3314b\Assignments\1\Assignment1 solution\Solution\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockExchangeMarket.StockSecuritiesExchange.resources
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockExchangeMarket.PlaceSellOrder.resources
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockExchangeMarket.PlaceBidOrder.resources
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockExchangeMarket.Properties.Resources.resources
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockExchangeMarket.MarketByOrder.resources
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockExchangeMarket.MarketByPrice.resources
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockExchangeMarket.StockStateSummary.resources
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\obj\Debug\StockExchangeMarket.StartInfo.resources
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sam\Desktop\Year3SE\Semester 2\SE3314B\StockMarket\bin\Debug\Newtonsoft.Json.xml
